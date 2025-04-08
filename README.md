@@ -57,15 +57,15 @@ This repository implements a deep learning-based Optical Character Recognition (
 
 ### Sample Training Logs
 
-Epoch 1/10 | Avg Loss: 6.8906
-Epoch 2/10 | Avg Loss: 3.8652
-Epoch 3/10 | Avg Loss: 3.3377
-Epoch 4/10 | Avg Loss: 3.1279
-Epoch 5/10 | Avg Loss: 3.1037
-Epoch 6/10 | Avg Loss: 2.9740
-Epoch 7/10 | Avg Loss: 2.9924
-Epoch 8/10 | Avg Loss: 3.0094
-Early stopping triggered at epoch 8.
+    Epoch 1/10 | Avg Loss: 6.8906  
+    Epoch 2/10 | Avg Loss: 3.8652  
+    Epoch 3/10 | Avg Loss: 3.3377  
+    Epoch 4/10 | Avg Loss: 3.1279  
+    Epoch 5/10 | Avg Loss: 3.1037  
+    Epoch 6/10 | Avg Loss: 2.9740  
+    Epoch 7/10 | Avg Loss: 2.9924  
+    Epoch 8/10 | Avg Loss: 3.0094  
+    Early stopping triggered at epoch 8.  
 
 
 Model saved to `checkpoints/crnn_model.pth`.
